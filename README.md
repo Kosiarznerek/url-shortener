@@ -17,7 +17,7 @@ The repository is configured and ready to use. Follow the steps below to set up 
 * Node.js v20
 * Docker
 
-**Kroki:**
+**Steps:**
 1.  Start the database container:
     ```bash
     docker compose up -d
