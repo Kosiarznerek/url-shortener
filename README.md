@@ -7,7 +7,7 @@ A high-performance URL shortening service built with a modern, scalable NestJS a
 * **Language**: Node.js 20 LTS, TypeScript
 * **Framework**: NestJS
 * **ORM**: TypeOrm
-* **Database**: PostgreSQL 15 (uruchamiana przez Docker)
+* **Database**: PostgreSQL 15
 
 ## 🚀 Getting Started
 
